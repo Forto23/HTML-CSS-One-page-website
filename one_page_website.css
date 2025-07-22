@@ -1,0 +1,31 @@
+/* Set font family and font size for the whole page */
+body {
+  font-family: Arial, sans-serif; /* Font-family */
+  font-size: 16px;                 /* Font-size */
+  margin: 20px;                   /* Optional: some page padding */
+}
+
+/* Style for all input fields and textarea in the form */
+form input,
+form textarea {
+  width: 300px;              /* Width of the inputs */
+  margin-bottom: 15px;       /* Margin between the inputs */
+  border: 2px solid #333;    /* Border of the inputs */
+  border-radius: 8px;        /* Border radius of the inputs */
+  padding: 10px;             /* Padding inside inputs for better look */
+  display: block;            /* Stack inputs vertically */
+}
+
+/* Style the submit button */
+form button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  background-color: #333;
+  color: white;
+  cursor: pointer;
+}
+r: pointer;
+}
+
+
